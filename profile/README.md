@@ -1,5 +1,5 @@
-# Welcome to Skyler's Cascadia R Conference GitHub Workshops Organization!
-This GitHub organization contains all my repositories in use in the Cascadia R conference from 2025 onward.
+# Welcome!
+This GitHub organization contains all Skyler Elmstrom's workshop repositories in use in the Cascadia R conference from 2025 onward.
 
 <br>
 
