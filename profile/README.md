@@ -34,31 +34,31 @@ Room KMC TBD (Please check-in, get badge, and ask for room number)
 
 Intermediate GitHub: Build and Publish a Quarto Website
 
-📖 Description
+> 📖 Description
+>
+> This intermediate GitHub workshop is for participants who know the basics and want to apply them to a complete, practical project.
+> 
+> Participants will build a personal or project website using Quarto, manage changes with GitHub branches and pull requests, and publish the site automatically with GitHub Pages. Along the way, they will learn how to inspect and adapt an existing GitHub Actions workflow rather than write a complex automation from scratch.
+> 
+> Participants will leave with:
+> 
+> - A working Quarto website published through GitHub Pages
+> - Practice using branches, pull requests, and GitHub’s review workflow
+> - Experience reading GitHub Actions logs and troubleshooting a deployment
+> - A reusable publishing pattern for portfolios, documentation, and project websites
 
-This intermediate GitHub workshop is for participants who know the basics and want to apply them to a complete, practical project.
+> 🧠 Knowledge prerequisites
+> 
+> - Basic familiarity with repositories, commits, branches, and pull requests
+> - Basic experience editing Markdown or other plain-text files
+> - Prior experience with R or Quarto is helpful but not required
 
-Participants will build a personal or project website using Quarto, manage changes with GitHub branches and pull requests, and publish the site automatically with GitHub Pages. Along the way, they will learn how to inspect and adapt an existing GitHub Actions workflow rather than write a complex automation from scratch.
-
-Participants will leave with:
-
-A working Quarto website published through GitHub Pages
-Practice using branches, pull requests, and GitHub’s review workflow
-Experience reading GitHub Actions logs and troubleshooting a deployment
-A reusable publishing pattern for portfolios, documentation, and project websites
-
-🧠 Knowledge prerequisites
-
-- Basic familiarity with repositories, commits, branches, and pull requests
-- Basic experience editing Markdown or other plain-text files
-- Prior experience with R or Quarto is helpful but not required
-
-⚠️ Required installations and accounts
-
-- A GitHub account
-- Git
-- A recent version of Quarto (installed separately if not using RStudio or Positron)
-- An editor or IDE such as RStudio, Positron, or VS Code
+> ⚠️ Required installations and accounts
+> 
+> - A GitHub account
+> - Git
+> - A recent version of Quarto (installed separately if not using RStudio or Positron)
+> - An editor or IDE such as RStudio, Positron, or VS Code
 
 The instructor will demonstrate local Git operations using GitHub Desktop. Participants may instead use their preferred Git interface, terminal, or IDE Git client.
 
