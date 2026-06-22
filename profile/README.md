@@ -32,17 +32,37 @@ Room KMC TBD (Please check-in, get badge, and ask for room number)
 
 ### Intermediate GitHub: Practical Publishing with GitHub and Quarto Workshop
 
-> 📖 **Description**:
-> This intermediate GitHub workshop is for participants who already know the basics and want to apply them to something real. Attendees will build a personal website using Quarto, manage content using GitHub branches and pull requests, and deploy the site automatically with GitHub Pages. The workshop introduces GitHub Actions through the Marketplace, focusing on adapting existing automations rather than writing complex workflows from scratch. Participants will leave with a working site and a reusable publishing pattern they can apply to documentation, portfolios, or project sites.
+Intermediate GitHub: Build and Publish a Quarto Website
 
-> 🧠 **Knowledge Prerequisites**:
-> - Basic familiarity with GitHub concepts such as repositories, branches, and pull requests.
-> - Prior experience with R or Markdown is helpful but not required.
+📖 Description
 
-> ⚠️ **Pre-Installations**:
-> - A recent version of your **IDE of choice** e.g. RStudio, Positron, or VS Code
-> - A recent version of **R**; **Git** installed locally; and **a GitHub account**
-> - Optional: Instructor will demonstrate Git operations using the GitHub Desktop app, but participants may use their preferred Git interface or IDE Git client.
+This intermediate GitHub workshop is for participants who know the basics and want to apply them to a complete, practical project.
+
+Participants will build a personal or project website using Quarto, manage changes with GitHub branches and pull requests, and publish the site automatically with GitHub Pages. Along the way, they will learn how to inspect and adapt an existing GitHub Actions workflow rather than write a complex automation from scratch.
+
+Participants will leave with:
+
+A working Quarto website published through GitHub Pages
+Practice using branches, pull requests, and GitHub’s review workflow
+Experience reading GitHub Actions logs and troubleshooting a deployment
+A reusable publishing pattern for portfolios, documentation, and project websites
+
+🧠 Knowledge prerequisites
+
+- Basic familiarity with repositories, commits, branches, and pull requests
+- Basic experience editing Markdown or other plain-text files
+- Prior experience with R or Quarto is helpful but not required
+
+⚠️ Required installations and accounts
+
+- A GitHub account
+- Git
+- A recent version of Quarto (installed separately if not using RStudio or Positron)
+- An editor or IDE such as RStudio, Positron, or VS Code
+
+The instructor will demonstrate local Git operations using GitHub Desktop. Participants may instead use their preferred Git interface, terminal, or IDE Git client.
+
+A recent version of R is optional and is only needed for participants who want to add executable R content to their website.
 
 #### Repositories
 
