@@ -2,7 +2,7 @@
 This GitHub organization contains all Skyler Elmstrom's workshop repositories in use in the Cascadia R conference from 2025-2026.
 
 - [2026 Introduction to GitHub](#introduction-to-github-collaboration-basics-for-r-users-workshop)
-- [2026 Intermediate GitHub](#intermediate-github-practical-publishing-with-github-and-quarto-workshop)
+- [2026 Intermediate GitHub](#intermediate-github-workshop-practical-publishing-with-quarto-and-github-actions)
 
 -----
 ## 2026 
@@ -30,7 +30,7 @@ Room KMC TBD (Please check-in, get badge, and ask for room number)
 
 <br>
 
-### Intermediate GitHub: Practical Publishing with GitHub and Quarto Workshop
+### Intermediate GitHub Workshop: Practical Publishing with Quarto and GitHub Actions
 
 Intermediate GitHub: Build and Publish a Quarto Website
 
