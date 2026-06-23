@@ -66,7 +66,8 @@ A recent version of R is optional and is only needed for participants who want t
 
 #### Repositories
 
-- Adding soon
+- [Intermediate Workshop Instructions](https://github.com/cascadiarconf-gh-workshops/intermediate-practical-publishing)
+- [Intermediate Workshop Portfolio Template](https://github.com/cascadiarconf-gh-workshops/intermediate-portfolio-template)
 
 <br>
 
