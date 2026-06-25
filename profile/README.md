@@ -15,26 +15,35 @@ Room KMC TBD (Please check-in, get badge, and ask for room number)
 
 ### Introduction to GitHub: Collaboration Basics for R Users Workshop
 
-> 📖 **Description**:
+> #### 💾 Repositories
+> - [Intro GitHub for R Users](https://github.com/cascadiarconf-gh-workshops/intro-github-1) - Workshop instructions
+> - [GutHub](https://github.com/cascadiarconf-gh-workshops/GutHub) - Workshop capstone and a Quarto-based community cookbook using GitHub Pages and introductory GitHub skills
+
+> #### 📖 Description
 > This beginner-friendly workshop introduces GitHub through hands-on, low-pressure collaboration rather than lectures about version control. Participants will contribute content to a shared “community cookbook,” open and review pull requests, and see their work appear on a live, published site. The session is designed to be fun, social, and practical—expect light chaos, friendly reviews, and a clear sense of how GitHub turns individual edits into shared outcomes. No command-line Git required.
 
-> 🧠 **Knowledge Prerequisites**:
+> #### 🧠 Knowledge Prerequisites
 > - Create a GitHub account at www.github.com and set up 2FA, if you have not already.
 > - No prior GitHub experience required.
 > - Familiarity with R and Markdown is helpful but not necessary.
-
-#### Repositories
-
-- [Intro GitHub for R Users](https://github.com/cascadiarconf-gh-workshops/intro-github-1) - Workshop instructions
-- [GutHub](https://github.com/cascadiarconf-gh-workshops/GutHub) - Workshop capstone and a Quarto-based community cookbook using GitHub Pages and introductory GitHub skills
 
 <br>
 
 ### Intermediate GitHub Workshop: Practical Publishing with Quarto and GitHub Actions
 
 Intermediate GitHub: Build and Publish a Quarto Website
+#### ⚠️ Required installations and accounts
 
-> 📖 Description
+- A GitHub account
+- Git
+- A recent version of Quarto (installed separately if not using RStudio or Positron)
+- An editor or IDE such as RStudio, Positron, or VS Code
+
+> #### 💾 Repositories
+> - [Intermediate Workshop Instructions](https://github.com/cascadiarconf-gh-workshops/intermediate-practical-publishing)
+> - [Intermediate Workshop Portfolio Template](https://github.com/cascadiarconf-gh-workshops/intermediate-portfolio-template)
+
+> #### 📖 Description
 >
 > This intermediate GitHub workshop is for participants who know the basics and want to apply them to a complete, practical project.
 > 
@@ -47,27 +56,15 @@ Intermediate GitHub: Build and Publish a Quarto Website
 > - Experience reading GitHub Actions logs and troubleshooting a deployment
 > - A reusable publishing pattern for portfolios, documentation, and project websites
 
-> 🧠 Knowledge prerequisites
+> #### 🧠 Knowledge prerequisites
 > 
 > - Basic familiarity with repositories, commits, branches, and pull requests
 > - Basic experience editing Markdown or other plain-text files
 > - Prior experience with R or Quarto is helpful but not required
 
-> ⚠️ Required installations and accounts
-> 
-> - A GitHub account
-> - Git
-> - A recent version of Quarto (installed separately if not using RStudio or Positron)
-> - An editor or IDE such as RStudio, Positron, or VS Code
-
 The instructor will demonstrate local Git operations using GitHub Desktop. Participants may instead use their preferred Git interface, terminal, or IDE Git client.
 
 A recent version of R is optional and is only needed for participants who want to add executable R content to their website.
-
-#### Repositories
-
-- [Intermediate Workshop Instructions](https://github.com/cascadiarconf-gh-workshops/intermediate-practical-publishing)
-- [Intermediate Workshop Portfolio Template](https://github.com/cascadiarconf-gh-workshops/intermediate-portfolio-template)
 
 <br>
 
