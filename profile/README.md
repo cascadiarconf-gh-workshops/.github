@@ -8,10 +8,16 @@ This GitHub organization contains all Skyler Elmstrom's workshop repositories in
 ## 2026 
 -----
 
-Friday June 26, 2026\
-1:30 - 4:30 PM\
+### Time and Location
+Friday June 26, 2026
+
+- Intro GitHub: 9:00AM - 12:00PM
+- Intermediate GitHub: 1:30PM - 4:30PM
+
 Karl Miller Center, 615 SW Harrison Street, Portland, OR\
 Room KMC TBD (Please check-in, get badge, and ask for room number)
+
+<br>
 
 ### Introduction to GitHub: Collaboration Basics for R Users Workshop
 
