@@ -25,7 +25,7 @@ Room KMC TBD (Please check-in, get badge, and ask for room number)
 
 #### Repositories
 
-- [Intro GitHub for R Users 2025](https://github.com/cascadiarconf-gh-workshops/intro-github-1) - Workshop instructions
+- [Intro GitHub for R Users](https://github.com/cascadiarconf-gh-workshops/intro-github-1) - Workshop instructions
 - [GutHub](https://github.com/cascadiarconf-gh-workshops/GutHub) - Workshop capstone and a Quarto-based community cookbook using GitHub Pages and introductory GitHub skills
 
 <br>
